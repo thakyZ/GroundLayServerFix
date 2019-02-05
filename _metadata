@@ -1,0 +1,9 @@
+{
+  "author" : "thakyZ",
+  "description" : "^#EA9931;Gets rid of those nasty errors by the Designated Laying Spots mod.^reset;",
+  "friendlyName" : "Designated Laying Spots Server Fix",
+  "link" : "steam://openurl/https://github.com/thakyZ/GroundLayServerFix/",
+  "name" : "GroundLayServerFix",
+  "tags" : "Miscellaneous",
+  "version" : "1.0.0"
+}

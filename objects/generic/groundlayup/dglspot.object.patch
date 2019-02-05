@@ -1,0 +1,13 @@
+[
+  [
+    { "op": "replace", "path": "/orientations/1/dualImage", "value": "dglfakecover.png" }
+  ],
+  [
+    { "op": "test", "path": "/orientations/1/spaceScan", "inverse": true },
+    { "op": "remove", "path": "/orientations/1/spaceScan" },
+    { "op": "add", "path": "/orientations/1/spaces", "value": [
+      [-3, 1], [-2, 1], [-1, 1], [0, 1], [1, 1], [2, 1], [3, 1],
+      [-3, 0], [-2, 0], [-1, 0], [0, 0], [1, 0], [2, 0], [3, 0]
+    ] }
+  ]
+]
